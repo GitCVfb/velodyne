@@ -1,8 +1,8 @@
 Change history
 ==============
 
-1.3.0 (forthcoming)
--------------------
+1.2.1 (2017-09-19)
+------------------
 
 * Fix compile warning for "Wrong initialization order".
 * Fix unit tests for transform nodelet.

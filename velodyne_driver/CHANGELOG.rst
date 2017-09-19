@@ -1,8 +1,8 @@
 Change history
 ==============
 
-1.3.0 (forthcoming)
--------------------
+1.2.1 (2017-09-19)
+------------------
 * Correct VLP-16 packet rate error.
 * Use port number when reading PCAP data.
 * Fix g++ 5.3.1 compiler errors.
